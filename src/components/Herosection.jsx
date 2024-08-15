@@ -21,7 +21,9 @@ export const Herosection = () => {
         >
           <CustomH1 />
 
-          <Typography variant="h5">What if your dev experience was</Typography>
+          <Typography variant="h5">
+            What if your dev experience was ?
+          </Typography>
         </Grid>
       </Container>
     </>
